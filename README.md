@@ -1,6 +1,6 @@
 # Sistema de Banco de Dados Relacional - Locadora de Veículos 
 
-Este repositório contém o modelo físico, povoamento e scripts de consulta SQL desenvolvidos por mim para uma atividade acadêmica de Banco de Dados Relacional na [Nome da sua Faculdade].
+Este repositório contém o modelo físico, povoamento e scripts de consulta SQL desenvolvidos por mim para uma atividade acadêmica de Banco de Dados Relacional na Uninter.
 
 O objetivo do projeto foi projetar e implementar um banco de dados robusto capaz de gerenciar os processos de negócio de uma locadora de automóveis, cobrindo o cadastro de clientes, controle de frotas, histórico de manutenções, fluxo de locações e controle financeiro de pagamentos.
 
